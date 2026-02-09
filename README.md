@@ -101,22 +101,8 @@ Among all evaluated models, **Random Forest** and **Gradient Boosting** demonstr
 
 ---
 
-## Usage Instructions
-To reproduce the experiment locally, follow the steps below:
-
-```bash
-# Install dependencies
-pip install numpy pandas matplotlib scikit-learn
-
-# Generate synthetic data
-python data_generation.py
-
-# Train models and evaluate performance
-python ml_model.py
-
----
-
 ## **Author**
 
 **Name:** Siya Khosla  
 **Roll No:** 102303742
+
