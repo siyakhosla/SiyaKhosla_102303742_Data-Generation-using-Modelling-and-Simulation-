@@ -68,7 +68,7 @@ The following regression models were implemented and compared:
 
 ### 1. Source Code
 - **data_generation.py** – Physics-based simulation and synthetic data generation  
-- **ml_model.py** – Machine learning model training and evaluation  
+- **ML_model.py** – Machine learning model training and evaluation  
 
 ### 2. Generated Datasets
 - **simulationData.csv** – Dataset containing velocity, angle, and noisy range measurements  
